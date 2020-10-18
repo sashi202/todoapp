@@ -5,6 +5,6 @@ Online change
 
 Online change to test git pull
 
-Local change
+Created a bug fix branch and fixed the bug
 
 Master branch
